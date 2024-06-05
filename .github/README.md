@@ -14,13 +14,13 @@
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 </a></p>
 <p align="center">
-<a href="https://github.com/ChampuXD/ChampuXRobot"><img src="https://img.shields.io/github/stars/ChampuXD/ChampuXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/ChampuXD/ChampuXRobot/network/members"> <img src="https://img.shields.io/github/forks/ChampuXD/ChampuXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/ChampuXD/ChampuXRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/ChampuXD/ChampuRobot"><img src="https://img.shields.io/github/stars/ChampuXD/ChampuRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ChampuXD/ChampuRobot/network/members"> <img src="https://img.shields.io/github/forks/ChampuXD/ChampuRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ChampuXD/ChampuRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/ChampuXD/ChampuXRobot/commits/"> <img src="https://img.shields.io/github/last-commit/ChampuXD/ChampuXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a></p>
+<a href="https://github.com/ChampuXD/ChampuRobot/commits/"> <img src="https://img.shields.io/github/last-commit/ChampuXD/ChampuRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a></p>
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 <p align="center">
 </p>
